@@ -48,6 +48,6 @@ Hi there, I'm **Nadeem Ahmed S**, a **Softwate Engineer** and a **Technophile** 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobephotoshop.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/splunk.svg"></code>
 
-![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=NadeemAhmd&show_icons=true&hide_border=true)
+![Nadeem's Github stats](https://github-readme-stats.vercel.app/api?username=NadeemAhmd&show_icons=true&hide_border=true)
 
 ⭐️ From [Nadeem Ahmed ](https://github.com/NadeemAhmd)

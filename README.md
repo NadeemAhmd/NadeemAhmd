@@ -45,6 +45,8 @@ Hi there, I'm **Nadeem Ahmed S**, a **Softwate Engineer** and a **Technophile** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobephotoshop.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/splunk.svg"></code>
 
 ![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=NadeemAhmd&show_icons=true&hide_border=true)
 

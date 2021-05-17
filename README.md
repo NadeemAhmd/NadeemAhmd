@@ -16,13 +16,13 @@
 <br />
 <br />
 
-Hi there, I'm **Nadeem Ahmed S**, a **Softwate Engineer** and a **Technophile** 🚀 from Bangalore, India. currently, I'm working in Atos Syntel. 👨🏽‍💼. 
+Hi there, I'm **Nadeem Ahmed S**, a **Softwate Engineer** and a **Technophile** 🚀 from Bangalore, India. Currently, I'm working in OSB India Pvt Ltd. 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a software developer at [Atos Syntel](https://www.atos-syntel.net/) working on operations projects on banking domain;
+- 👨🏽‍💻 I’m currently a software developer at [OSB India Pvt Ltd](http://www.osb-india.com/) working as an Application Analyst on banking domain;
 - 🌱 I’m constantly learning new technoligies to explore newer and greater challenges; 
 - 🤔 My interests are web develpment, UI and UX design, Cybersecurity, etc,.;
 - 💼 I have completed my B.E in Information Science and Engineering;
